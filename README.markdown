@@ -1,4 +1,4 @@
-﻿# Git Essentials (Premium course)
+﻿# Git Essentials
 
 Building web applications can be tough, but we sometimes make it tougher than it needs to be. If you’ve ever tried to fix bugs in one part of a file, while keeping track of a new feature in another part of the file, you know what I’m talking about!
 
